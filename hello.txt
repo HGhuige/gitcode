@@ -10,6 +10,5 @@ hello git!
 wqhello huige!
 hello huige!
 hello git!
-hello gi
-ff
 master
+hot-fix test
